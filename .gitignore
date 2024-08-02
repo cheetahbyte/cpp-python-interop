@@ -19,6 +19,8 @@
 # Fortran module files
 *.mod
 *.smod
+cmake-build-debug/
+.idea/
 
 # Compiled Static libraries
 *.lai
